@@ -1,0 +1,1631 @@
+[
+  {
+    "name": "Ademir",
+    "position": "FWD",
+    "caps": 39,
+    "goals": 32,
+    "first_year": 1945,
+    "last_year": 1953,
+    "fun_fact": ""
+  },
+  {
+    "name": "Adriano",
+    "position": "FWD",
+    "caps": 48,
+    "goals": 27,
+    "first_year": 2000,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Afonsinho",
+    "position": "MID",
+    "caps": 19,
+    "goals": 1,
+    "first_year": 1936,
+    "last_year": 1942,
+    "fun_fact": ""
+  },
+  {
+    "name": "Aldair",
+    "position": "DEF",
+    "caps": 81,
+    "goals": 3,
+    "first_year": 1989,
+    "last_year": 2000,
+    "fun_fact": ""
+  },
+  {
+    "name": "Alemão",
+    "position": "MID",
+    "caps": 36,
+    "goals": 6,
+    "first_year": 1983,
+    "last_year": 1990,
+    "fun_fact": ""
+  },
+  {
+    "name": "Alex",
+    "position": "MID",
+    "caps": 48,
+    "goals": 12,
+    "first_year": 1998,
+    "last_year": 2005,
+    "fun_fact": ""
+  },
+  {
+    "name": "Alex Sandro",
+    "position": "DEF",
+    "caps": 40,
+    "goals": 2,
+    "first_year": 2011,
+    "last_year": 2022,
+    "fun_fact": ""
+  },
+  {
+    "name": "Alexandre Pato",
+    "position": "FWD",
+    "caps": 27,
+    "goals": 10,
+    "first_year": 2008,
+    "last_year": 2013,
+    "fun_fact": ""
+  },
+  {
+    "name": "Alisson",
+    "position": "GK",
+    "caps": 69,
+    "goals": 0,
+    "first_year": 2015,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Amaral",
+    "position": "DEF",
+    "caps": 40,
+    "goals": 0,
+    "first_year": 1975,
+    "last_year": 1980,
+    "fun_fact": ""
+  },
+  {
+    "name": "Amoroso",
+    "position": "FWD",
+    "caps": 19,
+    "goals": 9,
+    "first_year": 1995,
+    "last_year": 2003,
+    "fun_fact": ""
+  },
+  {
+    "name": "André Cruz",
+    "position": "DEF",
+    "caps": 31,
+    "goals": 1,
+    "first_year": 1988,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "André Santos",
+    "position": "DEF",
+    "caps": 24,
+    "goals": 0,
+    "first_year": 2009,
+    "last_year": 2013,
+    "fun_fact": ""
+  },
+  {
+    "name": "Antônio Carlos",
+    "position": "DEF",
+    "caps": 37,
+    "goals": 3,
+    "first_year": 1991,
+    "last_year": 2001,
+    "fun_fact": ""
+  },
+  {
+    "name": "Arthur",
+    "position": "MID",
+    "caps": 22,
+    "goals": 1,
+    "first_year": 2018,
+    "last_year": 2022,
+    "fun_fact": ""
+  },
+  {
+    "name": "Arthur Friedenreich",
+    "position": "FWD",
+    "caps": 17,
+    "goals": 8,
+    "first_year": 1914,
+    "last_year": 1930,
+    "fun_fact": ""
+  },
+  {
+    "name": "Baltazar",
+    "position": "FWD",
+    "caps": 31,
+    "goals": 17,
+    "first_year": 1950,
+    "last_year": 1954,
+    "fun_fact": ""
+  },
+  {
+    "name": "Batista",
+    "position": "MID",
+    "caps": 38,
+    "goals": 0,
+    "first_year": 1978,
+    "last_year": 1983,
+    "fun_fact": ""
+  },
+  {
+    "name": "Bebeto",
+    "position": "FWD",
+    "caps": 77,
+    "goals": 39,
+    "first_year": 1985,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "Branco",
+    "position": "DEF",
+    "caps": 72,
+    "goals": 9,
+    "first_year": 1985,
+    "last_year": 1995,
+    "fun_fact": ""
+  },
+  {
+    "name": "Brito",
+    "position": "DEF",
+    "caps": 46,
+    "goals": 0,
+    "first_year": 1964,
+    "last_year": 1972,
+    "fun_fact": ""
+  },
+  {
+    "name": "Cafu",
+    "position": "DEF",
+    "caps": 142,
+    "goals": 5,
+    "first_year": 1990,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Caju",
+    "position": "MID",
+    "caps": 58,
+    "goals": 8,
+    "first_year": 1967,
+    "last_year": 1977,
+    "fun_fact": ""
+  },
+  {
+    "name": "Careca",
+    "position": "FWD",
+    "caps": 60,
+    "goals": 29,
+    "first_year": 1982,
+    "last_year": 1993,
+    "fun_fact": ""
+  },
+  {
+    "name": "Carlos",
+    "position": "GK",
+    "caps": 37,
+    "goals": 0,
+    "first_year": 1980,
+    "last_year": 1993,
+    "fun_fact": ""
+  },
+  {
+    "name": "Carlos Alberto",
+    "position": "DEF",
+    "caps": 53,
+    "goals": 8,
+    "first_year": 1964,
+    "last_year": 1977,
+    "fun_fact": ""
+  },
+  {
+    "name": "Carlos Mozer",
+    "position": "DEF",
+    "caps": 32,
+    "goals": 0,
+    "first_year": 1983,
+    "last_year": 1994,
+    "fun_fact": ""
+  },
+  {
+    "name": "Casemiro",
+    "position": "MID",
+    "caps": 75,
+    "goals": 7,
+    "first_year": 2011,
+    "last_year": 2023,
+    "fun_fact": ""
+  },
+  {
+    "name": "Clodoaldo",
+    "position": "MID",
+    "caps": 38,
+    "goals": 1,
+    "first_year": 1969,
+    "last_year": 1974,
+    "fun_fact": ""
+  },
+  {
+    "name": "Cláudio Taffarel",
+    "position": "GK",
+    "caps": 101,
+    "goals": 0,
+    "first_year": 1988,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "César Sampaio",
+    "position": "MID",
+    "caps": 47,
+    "goals": 6,
+    "first_year": 1990,
+    "last_year": 2000,
+    "fun_fact": ""
+  },
+  {
+    "name": "Dani Alves",
+    "position": "DEF",
+    "caps": 126,
+    "goals": 8,
+    "first_year": 2006,
+    "last_year": 2022,
+    "fun_fact": ""
+  },
+  {
+    "name": "Danilo",
+    "position": "DEF",
+    "caps": 59,
+    "goals": 1,
+    "first_year": 2011,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Danilo Alvim",
+    "position": "DEF",
+    "caps": 25,
+    "goals": 2,
+    "first_year": 1945,
+    "last_year": 1953,
+    "fun_fact": ""
+  },
+  {
+    "name": "David Luiz",
+    "position": "DEF",
+    "caps": 57,
+    "goals": 3,
+    "first_year": 2010,
+    "last_year": 2017,
+    "fun_fact": ""
+  },
+  {
+    "name": "Denílson",
+    "position": "FWD",
+    "caps": 61,
+    "goals": 9,
+    "first_year": 1996,
+    "last_year": 2003,
+    "fun_fact": ""
+  },
+  {
+    "name": "Dida",
+    "position": "GK",
+    "caps": 93,
+    "goals": 0,
+    "first_year": 1995,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Didi",
+    "position": "MID",
+    "caps": 68,
+    "goals": 20,
+    "first_year": 1952,
+    "last_year": 1962,
+    "fun_fact": ""
+  },
+  {
+    "name": "Diego",
+    "position": "MID",
+    "caps": 34,
+    "goals": 4,
+    "first_year": 2003,
+    "last_year": 2017,
+    "fun_fact": ""
+  },
+  {
+    "name": "Dirceu",
+    "position": "MID",
+    "caps": 26,
+    "goals": 4,
+    "first_year": 1973,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Djalma Santos",
+    "position": "DEF",
+    "caps": 98,
+    "goals": 3,
+    "first_year": 1952,
+    "last_year": 1968,
+    "fun_fact": ""
+  },
+  {
+    "name": "Domingos da Guia",
+    "position": "DEF",
+    "caps": 30,
+    "goals": 0,
+    "first_year": 1931,
+    "last_year": 1946,
+    "fun_fact": ""
+  },
+  {
+    "name": "Douglas Costa",
+    "position": "FWD",
+    "caps": 31,
+    "goals": 3,
+    "first_year": 2014,
+    "last_year": 2018,
+    "fun_fact": ""
+  },
+  {
+    "name": "Dunga",
+    "position": "MID",
+    "caps": 91,
+    "goals": 6,
+    "first_year": 1987,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ederson",
+    "position": "GK",
+    "caps": 25,
+    "goals": 0,
+    "first_year": 2017,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Edinho",
+    "position": "DEF",
+    "caps": 45,
+    "goals": 3,
+    "first_year": 1977,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Edmundo",
+    "position": "FWD",
+    "caps": 37,
+    "goals": 10,
+    "first_year": 1992,
+    "last_year": 2000,
+    "fun_fact": ""
+  },
+  {
+    "name": "Edmílson",
+    "position": "DEF",
+    "caps": 39,
+    "goals": 1,
+    "first_year": 2000,
+    "last_year": 2007,
+    "fun_fact": ""
+  },
+  {
+    "name": "Edu",
+    "position": "MID",
+    "caps": 41,
+    "goals": 8,
+    "first_year": 1966,
+    "last_year": 1976,
+    "fun_fact": ""
+  },
+  {
+    "name": "Elano",
+    "position": "MID",
+    "caps": 50,
+    "goals": 9,
+    "first_year": 2004,
+    "last_year": 2011,
+    "fun_fact": ""
+  },
+  {
+    "name": "Elias",
+    "position": "MID",
+    "caps": 35,
+    "goals": 0,
+    "first_year": 2010,
+    "last_year": 2016,
+    "fun_fact": ""
+  },
+  {
+    "name": "Emerson",
+    "position": "MID",
+    "caps": 73,
+    "goals": 6,
+    "first_year": 1997,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Everaldo",
+    "position": "DEF",
+    "caps": 24,
+    "goals": 0,
+    "first_year": 1967,
+    "last_year": 1972,
+    "fun_fact": ""
+  },
+  {
+    "name": "Everton",
+    "position": "FWD",
+    "caps": 25,
+    "goals": 3,
+    "first_year": 2018,
+    "last_year": 2021,
+    "fun_fact": ""
+  },
+  {
+    "name": "Fabinho",
+    "position": "MID",
+    "caps": 29,
+    "goals": 0,
+    "first_year": 2015,
+    "last_year": 2022,
+    "fun_fact": ""
+  },
+  {
+    "name": "Felipe Melo",
+    "position": "MID",
+    "caps": 22,
+    "goals": 2,
+    "first_year": 2009,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Fernandinho",
+    "position": "MID",
+    "caps": 53,
+    "goals": 2,
+    "first_year": 2011,
+    "last_year": 2019,
+    "fun_fact": ""
+  },
+  {
+    "name": "Filipe Luís",
+    "position": "DEF",
+    "caps": 44,
+    "goals": 2,
+    "first_year": 2009,
+    "last_year": 2019,
+    "fun_fact": ""
+  },
+  {
+    "name": "Flávio Conceição",
+    "position": "MID",
+    "caps": 45,
+    "goals": 4,
+    "first_year": 1995,
+    "last_year": 2000,
+    "fun_fact": ""
+  },
+  {
+    "name": "Fred",
+    "position": "FWD",
+    "caps": 39,
+    "goals": 18,
+    "first_year": 2005,
+    "last_year": 2014,
+    "fun_fact": ""
+  },
+  {
+    "name": "Félix",
+    "position": "GK",
+    "caps": 38,
+    "goals": 0,
+    "first_year": 1965,
+    "last_year": 1972,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gabriel Jesus",
+    "position": "FWD",
+    "caps": 64,
+    "goals": 19,
+    "first_year": 2016,
+    "last_year": 2023,
+    "fun_fact": ""
+  },
+  {
+    "name": "Garrincha",
+    "position": "MID",
+    "caps": 50,
+    "goals": 12,
+    "first_year": 1955,
+    "last_year": 1966,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gilberto",
+    "position": "DEF",
+    "caps": 35,
+    "goals": 1,
+    "first_year": 2003,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gilberto Alves",
+    "position": "FWD",
+    "caps": 29,
+    "goals": 6,
+    "first_year": 1976,
+    "last_year": 1978,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gilberto Silva",
+    "position": "MID",
+    "caps": 89,
+    "goals": 3,
+    "first_year": 2001,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gilmar",
+    "position": "GK",
+    "caps": 94,
+    "goals": 0,
+    "first_year": 1953,
+    "last_year": 1969,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gonçalves",
+    "position": "DEF",
+    "caps": 24,
+    "goals": 1,
+    "first_year": 1995,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "Gérson",
+    "position": "MID",
+    "caps": 70,
+    "goals": 14,
+    "first_year": 1961,
+    "last_year": 1972,
+    "fun_fact": ""
+  },
+  {
+    "name": "Hernanes",
+    "position": "MID",
+    "caps": 27,
+    "goals": 2,
+    "first_year": 2008,
+    "last_year": 2014,
+    "fun_fact": ""
+  },
+  {
+    "name": "Hilderaldo Bellini",
+    "position": "DEF",
+    "caps": 51,
+    "goals": 0,
+    "first_year": 1957,
+    "last_year": 1966,
+    "fun_fact": ""
+  },
+  {
+    "name": "Hulk",
+    "position": "FWD",
+    "caps": 49,
+    "goals": 11,
+    "first_year": 2009,
+    "last_year": 2021,
+    "fun_fact": ""
+  },
+  {
+    "name": "Jair",
+    "position": "MID",
+    "caps": 39,
+    "goals": 22,
+    "first_year": 1940,
+    "last_year": 1956,
+    "fun_fact": ""
+  },
+  {
+    "name": "Jairzinho",
+    "position": "MID",
+    "caps": 81,
+    "goals": 33,
+    "first_year": 1964,
+    "last_year": 1982,
+    "fun_fact": ""
+  },
+  {
+    "name": "Jefferson",
+    "position": "GK",
+    "caps": 22,
+    "goals": 0,
+    "first_year": 2011,
+    "last_year": 2015,
+    "fun_fact": ""
+  },
+  {
+    "name": "Joel Camargo",
+    "position": "DEF",
+    "caps": 28,
+    "goals": 0,
+    "first_year": 1964,
+    "last_year": 1970,
+    "fun_fact": ""
+  },
+  {
+    "name": "Jorginho",
+    "position": "DEF",
+    "caps": 64,
+    "goals": 3,
+    "first_year": 1987,
+    "last_year": 1995,
+    "fun_fact": ""
+  },
+  {
+    "name": "Josué",
+    "position": "MID",
+    "caps": 28,
+    "goals": 1,
+    "first_year": 2007,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Juan",
+    "position": "DEF",
+    "caps": 79,
+    "goals": 7,
+    "first_year": 2001,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Julinho Botelho",
+    "position": "FWD",
+    "caps": 24,
+    "goals": 11,
+    "first_year": 1952,
+    "last_year": 1960,
+    "fun_fact": ""
+  },
+  {
+    "name": "Juninho Paulista",
+    "position": "MID",
+    "caps": 50,
+    "goals": 5,
+    "first_year": 1995,
+    "last_year": 2003,
+    "fun_fact": ""
+  },
+  {
+    "name": "Juninho Pernambucano",
+    "position": "MID",
+    "caps": 40,
+    "goals": 6,
+    "first_year": 1999,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Jô",
+    "position": "FWD",
+    "caps": 20,
+    "goals": 5,
+    "first_year": 2007,
+    "last_year": 2014,
+    "fun_fact": ""
+  },
+  {
+    "name": "Júlio Baptista",
+    "position": "FWD",
+    "caps": 47,
+    "goals": 5,
+    "first_year": 2001,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Júlio César",
+    "position": "GK",
+    "caps": 87,
+    "goals": 0,
+    "first_year": 2004,
+    "last_year": 2014,
+    "fun_fact": ""
+  },
+  {
+    "name": "Júnior",
+    "position": "DEF",
+    "caps": 69,
+    "goals": 6,
+    "first_year": 1979,
+    "last_year": 1992,
+    "fun_fact": ""
+  },
+  {
+    "name": "Júnior Baiano",
+    "position": "DEF",
+    "caps": 25,
+    "goals": 2,
+    "first_year": 1997,
+    "last_year": 2002,
+    "fun_fact": ""
+  },
+  {
+    "name": "Kaká",
+    "position": "MID",
+    "caps": 92,
+    "goals": 29,
+    "first_year": 2002,
+    "last_year": 2016,
+    "fun_fact": ""
+  },
+  {
+    "name": "Kléber",
+    "position": "DEF",
+    "caps": 21,
+    "goals": 1,
+    "first_year": 2002,
+    "last_year": 2009,
+    "fun_fact": ""
+  },
+  {
+    "name": "Kléberson",
+    "position": "MID",
+    "caps": 32,
+    "goals": 2,
+    "first_year": 2002,
+    "last_year": 2010,
+    "fun_fact": ""
+  },
+  {
+    "name": "Leivinha",
+    "position": "FWD",
+    "caps": 21,
+    "goals": 7,
+    "first_year": 1972,
+    "last_year": 1974,
+    "fun_fact": ""
+  },
+  {
+    "name": "Leonardo",
+    "position": "MID",
+    "caps": 55,
+    "goals": 7,
+    "first_year": 1990,
+    "last_year": 2001,
+    "fun_fact": ""
+  },
+  {
+    "name": "Lucas Moura",
+    "position": "MID",
+    "caps": 35,
+    "goals": 4,
+    "first_year": 2011,
+    "last_year": 2018,
+    "fun_fact": ""
+  },
+  {
+    "name": "Lucas Paquetá",
+    "position": "MID",
+    "caps": 49,
+    "goals": 11,
+    "first_year": 2018,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Luisão",
+    "position": "DEF",
+    "caps": 44,
+    "goals": 3,
+    "first_year": 2001,
+    "last_year": 2011,
+    "fun_fact": ""
+  },
+  {
+    "name": "Luiz Gustavo",
+    "position": "MID",
+    "caps": 41,
+    "goals": 2,
+    "first_year": 2011,
+    "last_year": 2016,
+    "fun_fact": ""
+  },
+  {
+    "name": "Luizinho",
+    "position": "DEF",
+    "caps": 34,
+    "goals": 2,
+    "first_year": 1980,
+    "last_year": 1983,
+    "fun_fact": ""
+  },
+  {
+    "name": "Luís Fabiano",
+    "position": "FWD",
+    "caps": 45,
+    "goals": 28,
+    "first_year": 2003,
+    "last_year": 2013,
+    "fun_fact": ""
+  },
+  {
+    "name": "Luís Pereira",
+    "position": "DEF",
+    "caps": 33,
+    "goals": 0,
+    "first_year": 1973,
+    "last_year": 1977,
+    "fun_fact": ""
+  },
+  {
+    "name": "Lúcio",
+    "position": "DEF",
+    "caps": 105,
+    "goals": 4,
+    "first_year": 2000,
+    "last_year": 2011,
+    "fun_fact": ""
+  },
+  {
+    "name": "Maicon",
+    "position": "DEF",
+    "caps": 76,
+    "goals": 7,
+    "first_year": 2003,
+    "last_year": 2014,
+    "fun_fact": ""
+  },
+  {
+    "name": "Marcelo",
+    "position": "DEF",
+    "caps": 59,
+    "goals": 6,
+    "first_year": 2006,
+    "last_year": 2018,
+    "fun_fact": ""
+  },
+  {
+    "name": "Marco Antônio",
+    "position": "DEF",
+    "caps": 30,
+    "goals": 0,
+    "first_year": 1970,
+    "last_year": 1979,
+    "fun_fact": ""
+  },
+  {
+    "name": "Marcos",
+    "position": "GK",
+    "caps": 29,
+    "goals": 0,
+    "first_year": 1999,
+    "last_year": 2005,
+    "fun_fact": ""
+  },
+  {
+    "name": "Marinho Chagas",
+    "position": "DEF",
+    "caps": 28,
+    "goals": 4,
+    "first_year": 1973,
+    "last_year": 1977,
+    "fun_fact": ""
+  },
+  {
+    "name": "Marquinhos",
+    "position": "DEF",
+    "caps": 87,
+    "goals": 7,
+    "first_year": 2013,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Mauro Ramos",
+    "position": "DEF",
+    "caps": 28,
+    "goals": 0,
+    "first_year": 1949,
+    "last_year": 1965,
+    "fun_fact": ""
+  },
+  {
+    "name": "Mauro Silva",
+    "position": "MID",
+    "caps": 58,
+    "goals": 2,
+    "first_year": 1991,
+    "last_year": 2001,
+    "fun_fact": ""
+  },
+  {
+    "name": "Mazinho",
+    "position": "MID",
+    "caps": 35,
+    "goals": 0,
+    "first_year": 1989,
+    "last_year": 1994,
+    "fun_fact": ""
+  },
+  {
+    "name": "Mineiro",
+    "position": "MID",
+    "caps": 24,
+    "goals": 0,
+    "first_year": 2001,
+    "last_year": 2008,
+    "fun_fact": ""
+  },
+  {
+    "name": "Miranda",
+    "position": "DEF",
+    "caps": 58,
+    "goals": 3,
+    "first_year": 2009,
+    "last_year": 2019,
+    "fun_fact": ""
+  },
+  {
+    "name": "Márcio Santos",
+    "position": "DEF",
+    "caps": 40,
+    "goals": 5,
+    "first_year": 1990,
+    "last_year": 1997,
+    "fun_fact": ""
+  },
+  {
+    "name": "Mário Zagallo",
+    "position": "FWD",
+    "caps": 33,
+    "goals": 5,
+    "first_year": 1958,
+    "last_year": 1964,
+    "fun_fact": ""
+  },
+  {
+    "name": "Müller",
+    "position": "FWD",
+    "caps": 56,
+    "goals": 12,
+    "first_year": 1986,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "Neco",
+    "position": "FWD",
+    "caps": 14,
+    "goals": 9,
+    "first_year": 1917,
+    "last_year": 1925,
+    "fun_fact": ""
+  },
+  {
+    "name": "Neymar",
+    "position": "FWD",
+    "caps": 128,
+    "goals": 79,
+    "first_year": 2010,
+    "last_year": 2023,
+    "fun_fact": ""
+  },
+  {
+    "name": "Nilmar",
+    "position": "FWD",
+    "caps": 24,
+    "goals": 9,
+    "first_year": 2003,
+    "last_year": 2011,
+    "fun_fact": ""
+  },
+  {
+    "name": "Nilo",
+    "position": "FWD",
+    "caps": 14,
+    "goals": 10,
+    "first_year": 1923,
+    "last_year": 1931,
+    "fun_fact": ""
+  },
+  {
+    "name": "Norival",
+    "position": "DEF",
+    "caps": 20,
+    "goals": 1,
+    "first_year": 1940,
+    "last_year": 1946,
+    "fun_fact": ""
+  },
+  {
+    "name": "Nílton Santos",
+    "position": "DEF",
+    "caps": 75,
+    "goals": 3,
+    "first_year": 1949,
+    "last_year": 1962,
+    "fun_fact": ""
+  },
+  {
+    "name": "Orlando Peçanha",
+    "position": "DEF",
+    "caps": 30,
+    "goals": 0,
+    "first_year": 1958,
+    "last_year": 1966,
+    "fun_fact": ""
+  },
+  {
+    "name": "Oscar",
+    "position": "DEF",
+    "caps": 59,
+    "goals": 2,
+    "first_year": 1978,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Paulinho",
+    "position": "MID",
+    "caps": 56,
+    "goals": 13,
+    "first_year": 2011,
+    "last_year": 2018,
+    "fun_fact": ""
+  },
+  {
+    "name": "Paulo César Carpegiani",
+    "position": "MID",
+    "caps": 30,
+    "goals": 13,
+    "first_year": 1973,
+    "last_year": 1978,
+    "fun_fact": ""
+  },
+  {
+    "name": "Paulo Isidoro",
+    "position": "MID",
+    "caps": 36,
+    "goals": 3,
+    "first_year": 1977,
+    "last_year": 1983,
+    "fun_fact": ""
+  },
+  {
+    "name": "Paulo Roberto Falcão",
+    "position": "MID",
+    "caps": 28,
+    "goals": 6,
+    "first_year": 1976,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Paulo Silas",
+    "position": "MID",
+    "caps": 34,
+    "goals": 1,
+    "first_year": 1986,
+    "last_year": 1992,
+    "fun_fact": ""
+  },
+  {
+    "name": "Pelé",
+    "position": "FWD",
+    "caps": 92,
+    "goals": 77,
+    "first_year": 1957,
+    "last_year": 1971,
+    "fun_fact": ""
+  },
+  {
+    "name": "Pepe",
+    "position": "FWD",
+    "caps": 34,
+    "goals": 16,
+    "first_year": 1956,
+    "last_year": 1963,
+    "fun_fact": ""
+  },
+  {
+    "name": "Philippe Coutinho",
+    "position": "MID",
+    "caps": 68,
+    "goals": 21,
+    "first_year": 2010,
+    "last_year": 2022,
+    "fun_fact": ""
+  },
+  {
+    "name": "Piazza",
+    "position": "MID",
+    "caps": 51,
+    "goals": 0,
+    "first_year": 1967,
+    "last_year": 1976,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ramires",
+    "position": "MID",
+    "caps": 51,
+    "goals": 4,
+    "first_year": 2009,
+    "last_year": 2014,
+    "fun_fact": ""
+  },
+  {
+    "name": "Raphinha",
+    "position": "FWD",
+    "caps": 26,
+    "goals": 7,
+    "first_year": 2021,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Raí",
+    "position": "MID",
+    "caps": 49,
+    "goals": 15,
+    "first_year": 1987,
+    "last_year": 1998,
+    "fun_fact": ""
+  },
+  {
+    "name": "Renato",
+    "position": "MID",
+    "caps": 27,
+    "goals": 0,
+    "first_year": 2003,
+    "last_year": 2005,
+    "fun_fact": ""
+  },
+  {
+    "name": "Renato Augusto",
+    "position": "MID",
+    "caps": 33,
+    "goals": 6,
+    "first_year": 2011,
+    "last_year": 2018,
+    "fun_fact": ""
+  },
+  {
+    "name": "Renato Gaúcho",
+    "position": "FWD",
+    "caps": 41,
+    "goals": 5,
+    "first_year": 1983,
+    "last_year": 1993,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ricardinho",
+    "position": "MID",
+    "caps": 23,
+    "goals": 1,
+    "first_year": 2000,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ricardo Gomes",
+    "position": "DEF",
+    "caps": 45,
+    "goals": 4,
+    "first_year": 1984,
+    "last_year": 1994,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ricardo Rocha",
+    "position": "DEF",
+    "caps": 38,
+    "goals": 0,
+    "first_year": 1987,
+    "last_year": 1994,
+    "fun_fact": ""
+  },
+  {
+    "name": "Richarlison",
+    "position": "FWD",
+    "caps": 48,
+    "goals": 20,
+    "first_year": 2018,
+    "last_year": 2023,
+    "fun_fact": ""
+  },
+  {
+    "name": "Rildo",
+    "position": "DEF",
+    "caps": 38,
+    "goals": 1,
+    "first_year": 1963,
+    "last_year": 1969,
+    "fun_fact": ""
+  },
+  {
+    "name": "Rivaldo",
+    "position": "MID",
+    "caps": 74,
+    "goals": 35,
+    "first_year": 1993,
+    "last_year": 2003,
+    "fun_fact": ""
+  },
+  {
+    "name": "Rivellino",
+    "position": "MID",
+    "caps": 92,
+    "goals": 26,
+    "first_year": 1965,
+    "last_year": 1978,
+    "fun_fact": ""
+  },
+  {
+    "name": "Roberto Carlos",
+    "position": "DEF",
+    "caps": 125,
+    "goals": 11,
+    "first_year": 1992,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Roberto Dias",
+    "position": "DEF",
+    "caps": 23,
+    "goals": 1,
+    "first_year": 1963,
+    "last_year": 1968,
+    "fun_fact": ""
+  },
+  {
+    "name": "Roberto Dinamite",
+    "position": "FWD",
+    "caps": 38,
+    "goals": 20,
+    "first_year": 1975,
+    "last_year": 1984,
+    "fun_fact": ""
+  },
+  {
+    "name": "Roberto Firmino",
+    "position": "FWD",
+    "caps": 55,
+    "goals": 17,
+    "first_year": 2014,
+    "last_year": 2021,
+    "fun_fact": ""
+  },
+  {
+    "name": "Robinho",
+    "position": "FWD",
+    "caps": 100,
+    "goals": 28,
+    "first_year": 2003,
+    "last_year": 2017,
+    "fun_fact": ""
+  },
+  {
+    "name": "Rodrygo",
+    "position": "FWD",
+    "caps": 25,
+    "goals": 6,
+    "first_year": 2019,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Rogério Ceni",
+    "position": "GK",
+    "caps": 17,
+    "goals": 0,
+    "first_year": 1997,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Romário",
+    "position": "FWD",
+    "caps": 71,
+    "goals": 55,
+    "first_year": 1987,
+    "last_year": 2005,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ronaldinho",
+    "position": "FWD",
+    "caps": 97,
+    "goals": 33,
+    "first_year": 1999,
+    "last_year": 2013,
+    "fun_fact": ""
+  },
+  {
+    "name": "Ronaldo",
+    "position": "FWD",
+    "caps": 98,
+    "goals": 62,
+    "first_year": 1994,
+    "last_year": 2011,
+    "fun_fact": ""
+  },
+  {
+    "name": "Roque Júnior",
+    "position": "DEF",
+    "caps": 48,
+    "goals": 2,
+    "first_year": 1999,
+    "last_year": 2005,
+    "fun_fact": ""
+  },
+  {
+    "name": "Rui",
+    "position": "DEF",
+    "caps": 30,
+    "goals": 2,
+    "first_year": 1944,
+    "last_year": 1950,
+    "fun_fact": ""
+  },
+  {
+    "name": "Sávio",
+    "position": "FWD",
+    "caps": 21,
+    "goals": 4,
+    "first_year": 1994,
+    "last_year": 2000,
+    "fun_fact": ""
+  },
+  {
+    "name": "Sócrates",
+    "position": "MID",
+    "caps": 60,
+    "goals": 22,
+    "first_year": 1979,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Tesourinha",
+    "position": "FWD",
+    "caps": 23,
+    "goals": 10,
+    "first_year": 1944,
+    "last_year": 1950,
+    "fun_fact": ""
+  },
+  {
+    "name": "Thiago Silva",
+    "position": "DEF",
+    "caps": 113,
+    "goals": 7,
+    "first_year": 2008,
+    "last_year": 2022,
+    "fun_fact": ""
+  },
+  {
+    "name": "Tita",
+    "position": "FWD",
+    "caps": 31,
+    "goals": 6,
+    "first_year": 1979,
+    "last_year": 1984,
+    "fun_fact": ""
+  },
+  {
+    "name": "Toninho Cerezo",
+    "position": "MID",
+    "caps": 57,
+    "goals": 5,
+    "first_year": 1977,
+    "last_year": 1985,
+    "fun_fact": ""
+  },
+  {
+    "name": "Tostão",
+    "position": "FWD",
+    "caps": 54,
+    "goals": 32,
+    "first_year": 1966,
+    "last_year": 1972,
+    "fun_fact": ""
+  },
+  {
+    "name": "Valdo",
+    "position": "MID",
+    "caps": 45,
+    "goals": 4,
+    "first_year": 1987,
+    "last_year": 1993,
+    "fun_fact": ""
+  },
+  {
+    "name": "Vampeta",
+    "position": "MID",
+    "caps": 39,
+    "goals": 2,
+    "first_year": 1998,
+    "last_year": 2002,
+    "fun_fact": ""
+  },
+  {
+    "name": "Vinícius Júnior",
+    "position": "FWD",
+    "caps": 32,
+    "goals": 5,
+    "first_year": 2019,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Vágner Love",
+    "position": "FWD",
+    "caps": 20,
+    "goals": 4,
+    "first_year": 2004,
+    "last_year": 2007,
+    "fun_fact": ""
+  },
+  {
+    "name": "Waldir Peres",
+    "position": "GK",
+    "caps": 27,
+    "goals": 0,
+    "first_year": 1975,
+    "last_year": 1982,
+    "fun_fact": ""
+  },
+  {
+    "name": "Willian",
+    "position": "MID",
+    "caps": 70,
+    "goals": 9,
+    "first_year": 2011,
+    "last_year": 2019,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zezé Procópio",
+    "position": "MID",
+    "caps": 20,
+    "goals": 0,
+    "first_year": 1938,
+    "last_year": 1946,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zico",
+    "position": "MID",
+    "caps": 71,
+    "goals": 48,
+    "first_year": 1976,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zinho",
+    "position": "MID",
+    "caps": 55,
+    "goals": 7,
+    "first_year": 1989,
+    "last_year": 1997,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zito",
+    "position": "MID",
+    "caps": 46,
+    "goals": 3,
+    "first_year": 1955,
+    "last_year": 1964,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zizinho",
+    "position": "MID",
+    "caps": 53,
+    "goals": 30,
+    "first_year": 1942,
+    "last_year": 1957,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zé Maria",
+    "position": "DEF",
+    "caps": 47,
+    "goals": 0,
+    "first_year": 1968,
+    "last_year": 1978,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zé Roberto",
+    "position": "MID",
+    "caps": 84,
+    "goals": 6,
+    "first_year": 1995,
+    "last_year": 2006,
+    "fun_fact": ""
+  },
+  {
+    "name": "Zózimo",
+    "position": "DEF",
+    "caps": 35,
+    "goals": 1,
+    "first_year": 1955,
+    "last_year": 1962,
+    "fun_fact": ""
+  },
+  {
+    "name": "Éder",
+    "position": "MID",
+    "caps": 51,
+    "goals": 8,
+    "first_year": 1979,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Éder Militão",
+    "position": "DEF",
+    "caps": 33,
+    "goals": 2,
+    "first_year": 2018,
+    "last_year": 2024,
+    "fun_fact": ""
+  },
+  {
+    "name": "Émerson Leão",
+    "position": "GK",
+    "caps": 80,
+    "goals": 0,
+    "first_year": 1969,
+    "last_year": 1986,
+    "fun_fact": ""
+  },
+  {
+    "name": "Éverton Ribeiro",
+    "position": "MID",
+    "caps": 22,
+    "goals": 3,
+    "first_year": 2014,
+    "last_year": 2022,
+    "fun_fact": ""
+  }
+]
