@@ -1,0 +1,15 @@
+# Dependencies
+frontend/node_modules/
+
+# Expo
+frontend/.expo/
+frontend/dist/
+
+# Python
+backend/__pycache__/
+backend/*.pyc
+backend/.venv/
+
+# OS
+.DS_Store
+Thumbs.db

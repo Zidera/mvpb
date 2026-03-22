@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx expo:*)",
+      "Bash(powershell -Command \"gh auth status\")"
+    ]
+  }
+}
